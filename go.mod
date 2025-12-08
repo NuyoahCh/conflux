@@ -1,4 +1,4 @@
-module github.com/Nuyoahch/conflux
+module github.com/NuyoahCh/conflux
 
 go 1.24.10
 

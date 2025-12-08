@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Nuyoahch/conflux/cmd"
+import "github.com/NuyoahCh/conflux/cmd"
 
 func main() {
 	cmd.Execute()

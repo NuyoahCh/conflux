@@ -2,7 +2,7 @@ package client
 
 import (
 	"fmt"
-	"github.com/Nuyoahch/conflux/client/sdk"
+	"github.com/NuyoahCh/conflux/client/sdk"
 	"github.com/gookit/color"
 	"github.com/rocket049/gocui"
 	"io/ioutil"

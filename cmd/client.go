@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/Nuyoahch/conflux/client"
+	"github.com/NuyoahCh/conflux/client"
 	"github.com/spf13/cobra"
 )
 
